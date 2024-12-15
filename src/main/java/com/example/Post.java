@@ -18,7 +18,6 @@ public class Post {
     )
     private List<Tag> tags = new ArrayList<>();
 
-    // Getters, Setters, Constructors
 
     public Long getId() {
         return id;
